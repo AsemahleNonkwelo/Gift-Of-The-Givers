@@ -18,5 +18,5 @@ The aim of this project is to develop a web application that streamlines donatio
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AsemahleNonkwelo/giftofthegivers.git
+   git clone https://github.com/AsemahleNonkwelo/Gift-Of-The-Givers.git
 
